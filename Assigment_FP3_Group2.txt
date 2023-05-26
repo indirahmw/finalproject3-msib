@@ -1,0 +1,8 @@
+1. Link Repo   = https://github.com/indirahmw/finalproject3-msib 
+2. Link Deploy = https://finalproject3-msib.vercel.app/
+
+Jobdesk 
+Section A = Fawaz Asyar Mubarok (done)
+Section B = Indira Rahmawati(done)
+Section C = Elsa Dwi Sabrina (done)
+Section D = Pramitha Dewi (done)
