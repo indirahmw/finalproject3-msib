@@ -1,14 +1,9 @@
 body {
     background: #F2F2F2;
-    ;
     font-family: 'Basic';
 }
 
-.main {
-    height: 130vh;
-    background: linear-gradient(#FFFFFF 66%, #020E35 66%);
-    margin-top: 30rem;
-}
+/* <!-- Section A : Header and banner --> */
 .container1{
     position: absolute;
     left: 7.27%;
@@ -38,16 +33,25 @@ body {
     color: #020E35;
 }
 a{
-    --bs-navbar-nav-link-padding-x: 2.0rem;
+    --bs-navbar-nav-link-padding-x: 1.0rem;
 }
 
 .container-about{
     margin-top: 10rem;
 }
+
+/* <!-- Section B : About Us & Our Valuable Services --> */
+.main {
+    height: 130vh;
+    background: linear-gradient(#FFFFFF 66%, #020E35 66%);
+    margin-top: 30rem;
+}
+
 .circle {
     width: 90px;
-    height: 180px;
+    height: 170px;
     position: absolute;
+    top: 630px;
     border-radius: 0 12rem 12rem 0;
     background-color: #F0F3FA;
 }
@@ -89,7 +93,7 @@ a{
     font-size: 40px;
     color: #020E35;
     font-weight: 500;
-    margin-top: -500px;
+    margin-top: -650px;
     margin-bottom: 15px;
 }
 
@@ -105,7 +109,7 @@ a{
     padding: 10px 16px;
     position: absolute;
     left: 1230px;
-    top: 1145px;
+    top: 1205px;
     border-radius: 30px;
     background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
     border: 2px solid #FFFFFF;
@@ -114,6 +118,7 @@ a{
 .white-color {
     color: white;
 }
+
 /* OW */
 #row1{
     background: #020E35;
@@ -137,7 +142,7 @@ a{
     font-size: 30px;
     }
     
-    #row h5{
+    #row1 h5{
     font-size: 15px;
     margin-top: 4%;
     }
@@ -189,7 +194,7 @@ a{
     
     #tomvol{
     position: relative;
-    left: 42%;
+    left: 45%;
     margin-top: 10px;
     bottom: 6%;
     height: 40px;
