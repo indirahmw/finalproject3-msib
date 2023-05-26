@@ -81,7 +81,92 @@ body {
 .white-color {
     color: white;
 }
+/* OW */
+#row1{
+    background: #020E35;
+    color: #FFFFFF;
+    font-family: 'Basic';
+    font-style: normal;
+    padding: 10%;    
+    }
 
+#judul{
+    position: relative;
+    margin-top: 6%;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    
+    #row1 h3{
+    font-size: 30px;
+    }
+    
+    #row h5{
+    font-size: 15px;
+    margin-top: 4%;
+    }
+    
+    #row1 p{
+    font-size: 14px;
+    margin-top: 10%;
+    right: 50%;
+    }
+    
+    
+    #col1a{
+    background: #F09532;
+    width: 587px;
+    height: 390px;
+    }
+    #col2a{
+    text-align: right;
+    }
+    #col2b{
+        background: #8C32F0;
+        width: 587px;
+        height: 390px;
+    }
+    #col3a{
+        background: #E73587;
+        width: 587px;
+        height: 390px;
+    }
+    #col4b{
+        background: #32D6F0;
+        width: 587px;
+        height: 390px;
+        
+    }
+    #col4a{
+        text-align: right;
+    }
+    #row2{
+        margin-top: 6%;
+    }
+    #row3{
+        margin-top: 6%;
+    }
+    #row4{
+        margin-top: 6%;
+        margin-bottom: 15px;
+    }
+    
+    #tomvol{
+    position: relative;
+    left: 50%;
+    margin-top: 10px;
+    bottom: 6%;
+    height: 40px;
+    width: 140px;
+    
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+    font-weight: 400;
+    font-size: 15px;
+    color: #FFFFFF;
+}
 
 /* Contact and Footer */
 
