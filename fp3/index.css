@@ -8,7 +8,37 @@ body {
     height: 130vh;
     background: linear-gradient(#FFFFFF 66%, #020E35 66%);
 }
+.container1{
+    position: absolute;
+    left: 7.27%;
+    right: 61.45%;
+    top: 17.68%;
+    bottom: 54.83%;
+}
 
+.container2{
+    position: absolute;
+    left: 730px;
+    margin-top:-2rem;
+}
+.logo{
+    position: absolute;
+    height: 6rem;
+    padding-left: 6rem;
+}
+
+.title{
+    margin-top: 4rem;
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 85px;
+    color: #020E35;
+}
+a{
+    --bs-navbar-nav-link-padding-x: 2.0rem;
+}
 .circle {
     width: 90px;
     height: 180px;
